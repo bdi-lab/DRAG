@@ -8,7 +8,7 @@ All codes are written by Heehyeon Kim (heehyeon@kaist.ac.kr) and Jinhyeok Choi (
 @inproceedings{DRAG,
   title={Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection},
   author={Heehyeon Kim, Jinhyeok Choi, and Joyce Jiyoung Whang},
-  booktitle={The 23rd IEEE International Conference on Data Mining Workshops (ICDMW)},
+  booktitle={Proceedings of the 2023 IEEE International Conference on Data Mining Workshops (ICDMW)},
   pages={-},
   year={2023},
   organization={IEEE}
