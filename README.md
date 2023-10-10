@@ -1,5 +1,5 @@
 # Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection
-This code is the official implementation of the following [paper](https://arxiv.org/abs/2310.04171):
+This code is the official implementation of the following [paper](http://arxiv.org/abs/2310.04171):
 
 > Heehyeon Kim, Jinhyeok Choi, and Joyce Jiyoung Whang, Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection, Machine Learning on Graphs (MLoG) Workshop at the 23rd IEEE International Conference on Data Mining (ICDM), 2023
 
